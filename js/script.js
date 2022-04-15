@@ -67,3 +67,4 @@ function sum(...args) {
     return calc;
 }
 console.log(sum(1, 2, 8, 4, 9, 6, 30));
+
