@@ -41,3 +41,4 @@ console.log( arr ); // 5,3,8,1 (без изменений)
 # MariiaPolishchuk-HW4-js-array
 # MariiaPolishchuk-HW4-js-array
 # MariiaPolishchuk-HW4-js-array
+# HW4-js-array
