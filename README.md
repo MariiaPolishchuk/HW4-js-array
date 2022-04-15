@@ -38,3 +38,4 @@ let range = slArray(arr, 1, 4);
 console.log( range ); // 3, 8, 1 
 console.log( arr ); // 5,3,8,1 (без изменений)
 Напишите функцию суммирования sum, которая принимает аргументы с помощью spread operator. Функция sum должна возвращать результат суммирования всех значений которые передаются в функцию.
+# MariiaPolishchuk-HW4-js-array
